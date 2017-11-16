@@ -15,3 +15,13 @@ test(({ok, end}) => {
 
   end()
 })
+
+test(({notOk, end}) => {
+  const stimulus = {trigger: "test"}
+
+  notOk(
+    isValidStimulus(stimulus)
+  )
+
+  end()
+})

@@ -1,4 +1,5 @@
 import key from "@unction/key"
+
 import type {StimulusType} from "types"
 import type {UnaryFunctionType} from "types"
 import type {StateType} from "types"
