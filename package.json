@@ -63,11 +63,11 @@
     "xstream": "11.0.0"
   },
   "dependencies": {
-    "@unction/equals": "1.45.0",
+    "@unction/equals": "1.48.0",
     "@unction/istype": "2.12.0",
     "@unction/key": "4.11.0",
-    "@unction/reducevalues": "2.41.0",
-    "@unction/selectvalues": "1.36.0",
-    "@unction/streamsatisfies": "3.42.0"
+    "@unction/reducevalues": "2.43.0",
+    "@unction/selectvalues": "1.38.0",
+    "@unction/streamsatisfies": "3.46.0"
   }
 }
