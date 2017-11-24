@@ -68,6 +68,6 @@
     "@unction/key": "4.11.0",
     "@unction/reducevalues": "2.43.0",
     "@unction/selectvalues": "1.39.0",
-    "@unction/streamsatisfies": "3.49.0"
+    "@unction/streamsatisfies": "3.50.0"
   }
 }
