@@ -4,6 +4,9 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
+NOTICE: While this worked on a small scale, I've decided that it doesn't do enough. I've moved development to cycle-channel.
+
+
 Create a stream of state for your view layer in cycle
 
 ## Usage
